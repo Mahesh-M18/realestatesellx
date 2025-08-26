@@ -37,7 +37,7 @@
 
 | Layer       | Technologies |
 |-------------|--------------|
-| Backend     | Python, Flask |
+| Backend     | Php |
 | Frontend    | HTML, CSS, JavaScript, Bootstrap |
 | Database    | SQLite / PostgreSQL |
 | Libraries   | Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit-learn |
